@@ -1,0 +1,5 @@
+PostId,Email,Company,Tags,PostDate,UserName
+1,"a@gmail.com","Google","['C++', 'Java', 'Perl']","2010-10-10 10:10:10","Jason"
+2,"b@gmail.com","Yahoo","['Python', 'Java', 'C', 'machine learning']","2011-10-10 10:10:10","Tom"
+3,"c@gmail.com","Google","['Perl', 'Java', 'Linux', 'Machine Learning']","2012-10-10 10:10:10","Alex"
+4,"d@gmail.com","Yahoo","['Java', 'Java']","2013-10-10 10:10:10","Bob"
